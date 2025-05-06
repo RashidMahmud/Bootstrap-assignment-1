@@ -115,5 +115,20 @@ p, button, span, a, label{
   font-size: 22px;
 }
 
+/* Section 7 */
+
+.sec7-h1{
+  font-size: 60px;
+}
+.overHeightInput{
+  height: 280px;
+}
+.changes-top{
+  margin-top: 110px;
+}
+
+
+
+
 
 
