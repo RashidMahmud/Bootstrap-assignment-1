@@ -22,7 +22,7 @@ p, button, span, a, label{
   margin-right: 2px;
 }
 
-/* Nav section */
+                                                                        /* Nav section */
 .nav-link {
   font-size: 20px;
   transition: color .9s ;
@@ -32,7 +32,7 @@ p, button, span, a, label{
   border-bottom: 1px solid #fe8c45;
 }
 
-/* Section 1 */
+                                                                        /* Section 1 */
 
 .big-font {
   font-size: 100px;
@@ -55,3 +55,14 @@ p, button, span, a, label{
   position: absolute;
   right: 0;
 }
+                                                                        /* Section 2 */
+.color {
+    background-color: #8a47f6;
+  }
+  .big-font2 {
+    font-size: 70px;
+    font-weight: 800;
+  }
+  .bg-outer{
+    background-color: #8a47f617;
+  }
