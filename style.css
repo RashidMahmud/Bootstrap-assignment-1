@@ -115,7 +115,7 @@ p, button, span, a, label{
   font-size: 22px;
 }
 
-/* Section 7 */
+                                                                        /* Section 7 */
 
 .sec7-h1{
   font-size: 60px;
@@ -127,6 +127,14 @@ p, button, span, a, label{
   margin-top: 110px;
 }
 
+@media (max-width: 800px) {
+  .big-font{
+    font-size: 70px;
+  }
+  .changes-top{
+    margin-top: 20px;
+  }
+}
 
 
 
